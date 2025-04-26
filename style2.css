@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(189, 189, 249);
+}
+
+header{
+    background-color: burlywood;
+    padding: 20px;
+}
+
+header a{
+    text-decoration: none;
+    color: green;
+}
+
+a:hover{
+    color: red;
+    transition: all 0.3s linear;
+}
+
+.link-text{
+    color: whitesmoke;
+}
+
+p:hover{
+    background-color: blue;
+}
+
