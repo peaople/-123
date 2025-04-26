@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+     background-color: rgb(189, 189, 249);
+}
+
+header{
+    background-color: burlywood;
+    padding: 20px;
+}
+
+header a{
+    text-decoration: none;
+    color: green;
+}
+
+a:hover{
+    color: red;
+    transition: all 0.3s linear;
+}
+
+li{
+    color: khaki;
+}
+
+img:hover{
+    transform: scale(0.9);
+}
+
+li:hover{
+ color: salmon;
+}
+
+h1{
+    text-align: center;
+    border: 5px solid cornflowerblue;
+}
+
+h1:hover{
+    border: 5px dotted blueviolet;
+}
